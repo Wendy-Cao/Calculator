@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>02_image/background.jpg</file>
+        <file>02_image/input.png</file>
+        <file>02_image/number.ico</file>
+        <file>02_image/operator.ico</file>
+    </qresource>
+</RCC>
